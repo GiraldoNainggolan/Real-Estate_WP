@@ -237,7 +237,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@twitter_handle](https://x.com/GolanUwaDo) - giraldonainggolan@gmail.com
 
-Project Link: [https://github.com/GiraldoNainggolan/Real-Estate_WP](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/GiraldoNainggolan/Real-Estate_WP](https://github.com/GiraldoNainggolan/Real-Estate_WP?tab=readme-ov-file)
 
 <!-- Acknowledgments -->
 
